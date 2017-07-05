@@ -1,6 +1,6 @@
 # CrimVarious
 All the following experiments are modifications on the opensource typeface Crimson
-[(my custom testing page)](manuel.vongebhardi.de/variable-fonts/testing/)
+[(testing page)](manuel.vongebhardi.de/variable-fonts/testing/)
 
 ### [Pen Model (Oldstyle——Modern)](PenModel/)
 char-set: a, n, o, b <br/>
